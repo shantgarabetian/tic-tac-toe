@@ -49,3 +49,14 @@ ul {
 .game-info {
   margin-left: 20px;
 }
+.square {
+  background-color: lightgray;
+}
+#root {
+  width: 100%;
+  display: flex;
+  justify-content: start;
+}
+.board {
+  box-shadow: 2px 5px 4px 5px #888888;
+}
